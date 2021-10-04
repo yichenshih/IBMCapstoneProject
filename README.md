@@ -1,6 +1,2 @@
-# HelloWorld
-tutorial
-
-i dont like this change lol
-
-one more for luck
+# 
+This repository contains files for course "IBM data science capstone project"
